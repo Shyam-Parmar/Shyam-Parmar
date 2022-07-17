@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning what I am interested above. 
 - 💞️ I’m a Master's student advancing skills in Data Analytics/Science
 - 📫 How to reach me - https://www.linkedin.com/in/shyambparmar/
+- 📫 Website - https://shyam-parmar.github.io/data-analyst/
 
 <!---
 Shyam-Parmar/Shyam-Parmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
