@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shyam%20Parmar&fontSize=60&animation=twinkling" alt="Shyam Parmar profile header" />
 </p>
+
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist;NLP+%7C+Machine+Learning;AI+Agents+%7C+LLMs;Predictive+Analytics;Business+Intelligence"
@@ -51,22 +52,31 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam-Parmar&theme=radical" alt="Streak" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyam-Parmar&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shyam-Parmar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shyam-Parmar/Shyam-Parmar/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shyam-Parmar/Shyam-Parmar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shyam-Parmar/Shyam-Parmar/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Shyam-Parmar/Shyam-Parmar/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shyam-Parmar&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
 </p>
-Contact
+
+## Contact
 
 <p align="center">
   <a href="https://shyam-parmar.github.io/data-analyst/">
     <img src="https://img.shields.io/badge/Portfolio-shyam--parmar.github.io-36BCF7?style=for-the-badge&logo=google-chrome" alt="Portfolio link">
   </a>
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
