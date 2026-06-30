@@ -70,13 +70,14 @@
 </p>
 
 ## Contact
-
 <p align="center">
   <a href="https://shyam-parmar.github.io/data-analyst/">
     <img src="https://img.shields.io/badge/Portfolio-shyam--parmar.github.io-36BCF7?style=for-the-badge&logo=google-chrome" alt="Portfolio link">
   </a>
+  <a href="https://www.linkedin.com/in/shyambparmar/">
+    <img src="https://img.shields.io/badge/LinkedIn-shyambparmar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn link">
+  </a>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
