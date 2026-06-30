@@ -17,6 +17,7 @@
 <li>☕ Powered by coffee and an unreasonable amount of debugging.</li>
 <li>💸 Secretly solve half my problems in Excel before admitting it to anyone.</li>
 <li>🔁 I have Googled the same error message more times than I'd like to admit.</li>
+<li>⚽ Lifelong Messi fan. Will find a way to relate any conversation back to Inter Miami or Barcelona.</li>
 </ul>
 
 ## Skills & Tools
