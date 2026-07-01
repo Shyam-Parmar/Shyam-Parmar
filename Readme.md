@@ -15,9 +15,7 @@
 <li>📊 I'm a Data Scientist, which mostly means I argue with Python until it agrees to give me a chart.</li>
 <li>🌍 I'm based in Florida.</li>
 <li>🧹 99% of my job is cleaning data, 1% is the cool machine learning part you see in movies.</li>
-<li>☕ Powered by coffee and an unreasonable amount of debugging.</li>
 <li>💸 Secretly solve half my problems in Excel before admitting it to anyone.</li>
-<li>🔁 I have Googled the same error message more times than I'd like to admit.</li>
 <li>⚽ Lifelong Messi fan. Will find a way to relate any conversation back to Inter Miami or Barcelona.</li>
 </ul>
 
