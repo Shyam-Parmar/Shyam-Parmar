@@ -46,15 +46,13 @@
 </p>
 
 ## Some Interesting Stats
-
+ 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam-Parmar&theme=radical" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam-Parmar&theme=radical&hide_current_streak=true" alt="Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shyam-Parmar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shyam-Parmar/Shyam-Parmar/output/github-contribution-grid-snake-dark.svg" />
@@ -62,7 +60,6 @@
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Shyam-Parmar/Shyam-Parmar/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shyam-Parmar&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
 </p>
